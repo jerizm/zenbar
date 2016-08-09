@@ -8,6 +8,6 @@ style: """
   left: 0
   height: 20px
   width: 100%
-  background-color: none
+  background-color: #333333
   z-index: -1
 """

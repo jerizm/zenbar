@@ -8,8 +8,8 @@ render: (output) ->
 style: """
   -webkit-font-smoothing: antialiased
   color: #eee8d5
-  font: 9px Menlo
-  top: 6px
+  font: 10px Hack
+  top: 5px
   width: 100%
 
   .date
