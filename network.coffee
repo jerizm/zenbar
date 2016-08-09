@@ -24,8 +24,9 @@ style: """
 """
 
 render: -> """
-  net
+  down
   <span class="down"></span>
+  up
   <span class="up"></span>
 """
 
