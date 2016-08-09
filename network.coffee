@@ -18,7 +18,7 @@ style: """
   color: #eee8d5
   font: 10px Hack
   top: 5px
-  right: 245px
+  left: 5px
   span
     color: #777777
 """
