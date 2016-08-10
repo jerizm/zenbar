@@ -16,8 +16,8 @@ refreshFrequency: 3000
 style: """
   -webkit-font-smoothing: antialiased
   color: #eee8d5
-  font: 10px Hack
-  top: 5px
+  font: 11px Hack
+  top: 3px
   left: 5px
   span
     color: #777777
