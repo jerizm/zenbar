@@ -1,6 +1,6 @@
 command: "osascript -e 'get volume settings' | cut -f2 -d':' | cut -f1 -d',';"
 
-refreshFrequency: 1000 # ms
+refreshFrequency: 10000 # ms
 
 render: (output) ->
   "vol <span>#{output}</span>"

@@ -1,7 +1,7 @@
 command: """
     zenbar/network.sh
 """
-refreshFrequency: 2000
+refreshFrequency: 5000
 
 style: """
   -webkit-font-smoothing: antialiased
